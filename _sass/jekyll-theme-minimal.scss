@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 @import "fonts";
 @import "rouge-github";
 
@@ -32,6 +33,10 @@ h2 {
 
 h3, h4, h5, h6 {
   color:#494949;
+}
+
+links{
+    
 }
 
 a {
@@ -111,66 +116,6 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-ul.downloads {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
-}
-
-.downloads li {
-  width:89px;
-  float:left;
-  border-right:1px solid #e0e0e0;
-  height:40px;
-}
-
-.downloads li:first-child a {
-  border-radius:5px 0 0 5px;
-}
-
-.downloads li:last-child a {
-  border-radius:0 5px 5px 0;
-}
-
-.downloads a {
-  line-height:1;
-  font-size:11px;
-  color:#676767;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
-}
-
-.downloads a:hover, .downloads a:focus {
-  color:#675C5C;
-  font-weight:bold;
-}
-
-.downloads ul a:active {
-  background-color:#f0f0f0;
-}
-
-strong {
-  color:#222;
-  font-weight:700;
-}
-
-.downloads li + li + li {
-  border-right:none;
-  width:89px;
-}
-
-.downloads a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
-}
-
 ul.contact {
   list-style:none;
   height:40px;
@@ -206,7 +151,7 @@ ul.contact {
   height:34px;
 }
 
-.coontact a:hover, .contact a:focus {
+.contact a:hover, .contact a:focus {
   color:#675C5C;
   font-weight:bold;
 }
