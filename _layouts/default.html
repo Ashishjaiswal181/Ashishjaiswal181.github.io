@@ -20,17 +20,12 @@
             <img src="{{site.logo | relative_url}}" alt="Logo" /> {% endif %}
 
             <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+            <!--
             {% if site.github.is_project_page %}
             <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
             {% endif %} {% if site.github.is_user_page %}
             <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-            {% endif %}
-            <div>
-                <a href="{{ site.github.repository_url }}"><img src="/assets/img/github.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
-                <a href="https://twitter.com/AshJais181"><img src="/assets/img/twitter.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
-                <a href="https://www.facebook.com/profile.php?id=100004470360895"><img src="/assets/img/facebook.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
-            </div>
+            {% endif %} -->
             
             <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
             <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="ashish-kumar-837349ab"><a class="LI-simple-link" href='https://in.linkedin.com/in/ashish-kumar-837349ab?trk=profile-badge'>Ashish Kumar</a></div>
@@ -44,14 +39,17 @@
         </ul>
         {% endif %} -->
         </header>
-        <aside>
         <section>
 
             {{ content }}
 
         </section>
-        </aside>
         <footer>
+           <div>
+                <a href="{{ site.github.repository_url }}"><img src="/assets/img/github.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
+                <a href="https://twitter.com/AshJais181"><img src="/assets/img/twitter.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
+                <a href="https://www.facebook.com/profile.php?id=100004470360895"><img src="/assets/img/facebook.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
+            </div>
             <ul class="contact">
                <li><a href="yet_another-page.html"><Strong> Projects</Strong></a></li>
                <li><a href="https://ashishjaiswal181.github.io/VSBlog/"><strong>Blog</strong></a></li>
@@ -63,7 +61,7 @@
             <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
         </footer>
     </div>
-    <script src="{{ ' /assets/js/scale.fix.js ' | relative_url }}"></script>
+   <!-- <script src="{{ ' /assets/js/scale.fix.js ' | relative_url }}"></script> -->
     {% if site.google_analytics %}
     <script>
         (function(i, s, o, g, r, a, m) {
