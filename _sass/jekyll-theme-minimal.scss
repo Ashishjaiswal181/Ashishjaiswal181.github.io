@@ -38,11 +38,9 @@ h3, h4, h5, h6 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: auto;
-    height: auto;
 }
 
-.links:hover {
+/*.links:hover {
     display: block;
     max-width:80px;
     max-height:80px;
@@ -51,7 +49,7 @@ h3, h4, h5, h6 {
     margin-left: auto;
     margin-right: auto;
 }
-
+*/
 a {
   color:#267CB9;
   text-decoration:none;
@@ -204,7 +202,7 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:static;
+  position:static:;
   bottom:40px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
