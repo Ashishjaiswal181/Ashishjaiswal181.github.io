@@ -52,14 +52,14 @@
         <footer>
            <div class="links">
                <br>
-                <a href="{{ site.github.repository_url }}"><img src="/assets/img/github.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
+                <a href="{{ <site class="github owner"></site>_url }}"><img src="/assets/img/github.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
                 <br>
                 <a href="https://twitter.com/AshJais181"><img src="/assets/img/twitter.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
                 <br>
                 <a href="https://www.facebook.com/profile.php?id=100004470360895"><img src="/assets/img/facebook.png" style="display: block;max-width:72px;max-height:72px;width: auto;height: auto;"></a>
                 <br><br>
             </div>
-            
+            <p>This site is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}

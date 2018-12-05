@@ -3,7 +3,6 @@ layout: default
 ---
 
 
-
 # Bio
 
 <dl>
@@ -14,7 +13,7 @@ layout: default
 <dt>Birthplace</dt>
 <dd>India, Bihar</dd>
 <dt>Profession</dt>
-<dd>Student</dd>
+<dd>Student (B. Tech in the Department of Computer Science and Engineering)</dd>
 <dt>Skills</dt>
 <dd>Java, Python, C, Javascript, CSS, HTML, C++, Haskell, Java-FXML, Typescript</dd>
 <dt>Blog</dt>
@@ -22,6 +21,8 @@ layout: default
 <dt>Publishment</dt>
 <dd>Itch.io Game Jam <a href="https://ashish-kumar.itch.io/space-wars">Space Wars</a></dd>
 </dl>
+
+***
 
 # About Me
 
