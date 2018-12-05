@@ -14,17 +14,6 @@ you can find all about the project [here](https://github.com/Ashishjaiswal181/Sm
 
 It is a simple java based game that was developed for the Game Jam hosted on Itch.io. The source code for the game is available [here](https://github.com/Ashishjaiswal181/Space_wars). And the game is published on Itch.io [here](https://ashish-kumar.itch.io/space-wars).
 
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br><br><br><br><br><br>
 
 [back](./)
