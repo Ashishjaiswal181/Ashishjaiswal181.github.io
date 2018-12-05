@@ -18,9 +18,9 @@ layout: default
 <dt>Skills</dt>
 <dd>Java, Python, C, Javascript, CSS, HTML, C++, Haskell, Java-FXML, Typescript</dd>
 <dt>Blog</dt>
-<dd>[VS_blog](https://ashishjaiswal181.github.io/VSBlog/)</dd>
+<dd><a href="https://ashishjaiswal181.github.io/VSBlog/">VS_blog</a></dd>
 <dt>Publishment</dt>
-<dd>Itch.io Game Jam [Space Wars](https://ashish-kumar.itch.io/space-wars)</dd>
+<dd>Itch.io Game Jam <a href="https://ashish-kumar.itch.io/space-wars">Space Wars</a></dd>
 </dl>
 
 # About Me
