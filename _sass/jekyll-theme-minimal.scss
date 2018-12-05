@@ -120,7 +120,7 @@ img {
 header {
   width:270px;
   float:left;
-  position:sticky;
+  position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -199,7 +199,7 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:absolute;
+  position:relative;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
