@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #d3e8f7;
+  background-color: rgba(211, 232, 247, 0.81);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#484848;
@@ -190,7 +190,7 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:sticky;
+  position:static;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
