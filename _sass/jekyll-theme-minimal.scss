@@ -115,6 +115,12 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+section {
+  width:500px;
+  float:right;
+  padding-bottom:50px;
+}
+
 ul.contact {
   list-style:none;
   height:40px;
@@ -168,12 +174,6 @@ ul.contact {
   font-size:14px;
   display:block;
   color:#222;
-}
-
-section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
 }
 
 small {
