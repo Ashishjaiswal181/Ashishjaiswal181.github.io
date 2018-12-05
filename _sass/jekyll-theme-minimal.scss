@@ -35,8 +35,11 @@ h3, h4, h5, h6 {
 }
 
 .links{
+    display: block;
     margin-left: auto;
     margin-right: auto;
+    width: auto;
+    height: auto;
 }
 
 .links:hover {
@@ -201,8 +204,8 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:relative;
-  bottom:50px;
+  position:static;
+  bottom:40px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
