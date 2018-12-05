@@ -26,7 +26,7 @@ layout: default
 
 # About Me
 
-Hello! I am an enthuiastic engineer persuing B. Tech in the Department of Computer Science. I am interested in making changes to the world. My ideology is that everyone has their own struggle story so as an engineer I think it is my responsibility to make everybody's struggle less sufferable. Currently I am learning and working on a project based on machine learning that will be represented in the Innovation Challenge held by my university.
+Hello! I am an enthusiast engineer persuing B. Tech in the Department of Computer Science. I am interested in making changes to the world. My ideology is that everyone has their own struggle story so as an engineer I think it is my responsibility to make everybody's struggle less sufferable. Currently I am learning and working on a project based on machine learning that will be represented in the Innovation Challenge held by my university.
 
 # Hobbies
 

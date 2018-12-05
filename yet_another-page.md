@@ -18,4 +18,4 @@ It is a simple java based game that was developed for the Game Jam hosted on Itc
 
 [back](./)
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
