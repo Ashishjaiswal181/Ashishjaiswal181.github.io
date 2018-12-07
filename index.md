@@ -44,7 +44,7 @@ Music is an art but I am not the artist, I am the admirer who gets goosebumps wh
 
 #### Drawing
 
-Pensil drawing specifically had become my hobby from the junior schools. It has helped me survive through the boring classes and kept me busy when there were absolutely nothing to do. These days I do not draw often but atleast once every year I somehow find the perfect day when all I want to do is sit and draw for the whole day. It gives me immense pleasure to admire my own work due to the long breaks.
+Pencil drawing specifically had become my hobby from the junior schools. It has helped me survive through the boring classes and kept me busy when there were absolutely nothing to do. These days I do not draw often but atleast once every year I somehow find the perfect day when all I want to do is sit and draw for the whole day. It gives me immense pleasure to admire my own work due to the long breaks.
 
 
 * * *
