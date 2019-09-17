@@ -15,7 +15,7 @@ layout: default
 <dt>Profession</dt>
 <dd>Student (B. Tech in the Department of Computer Science and Engineering)</dd>
 <dt>Skills</dt>
-<dd>Java, Python, C, Javascript, CSS, HTML, C++, Haskell, Java-FXML, Typescript</dd>
+<dd>Python, C, Java, SQL, Git Bash (Shell), Matlab, Javascript, CSS, HTML</dd>
 <dt>Blog</dt>
 <dd><a href="https://ashishjaiswal181.github.io/VSBlog/">VS_blog</a></dd>
 <dt>Publishment</dt>
@@ -30,21 +30,21 @@ Hello! I am an enthusiast engineer persuing B. Tech in the Department of Compute
 
 # Hobbies
 
-#### Cooking
-
-Cooking is one of the few thing that I can do even after a hectic day. Kitchen is like the chemistry lab for me and cooking an expeirment where I combine/play with the ingredients to create different reciepies. It not only refreshes me but also keeps me excited about the outcome of the experiment(_the prepared recipe_). 
-
 #### Chess
 
 If you are a thinker chess is your playground. I started playing chess when I was 10 and it became my favorite when I beat all my siblings and cousins. The game has given me enough ideas and starategies that also applied in the real world. I never won a championship in chess but my interest in the game made me the Captain of the Chess Committee and the Chess Captain of the school.
+
+#### Cooking
+
+Cooking is one of the few thing that I can do even after a hectic day. Kitchen is like the chemistry lab for me and cooking an expeirment where I combine/play with the ingredients to create different reciepies. It not only refreshes me but also keeps me excited about the outcome of the experiment(_the prepared recipe_). 
 
 #### Music
 
 Music is an art but I am not the artist, I am the admirer who gets goosebumps when the beats touches my emotions. Music is the hook to the reality for a wonderer like me. It helps me realise the world from different aspects. I have great respect for the lyricists. Genres are just an option for my mood, each genre has its own significance on different moods.
 
-#### Drawing
+#### Sketching
 
-Pencil drawing specifically had become my hobby from the junior schools. It has helped me survive through the boring classes and kept me busy when there were absolutely nothing to do. These days I do not draw often but atleast once every year I somehow find the perfect day when all I want to do is sit and draw for the whole day. It gives me immense pleasure to admire my own work due to the long breaks.
+Pencil sketching specifically had become my hobby from the junior schools. It has helped me survive through the boring classes and kept me busy when there were absolutely nothing to do. These days I do not draw often but atleast once every year I somehow find the perfect day when all I want to do is sit and draw for the whole day. It gives me immense pleasure to admire my own work due to the long breaks.
 
 
 * * *
