@@ -15,12 +15,9 @@ body {
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
-  width:100%
+    width=250px;
 }
 
-.button:hover {
-  background-color: #04ba20;
-}
 
 h1, h2, h3, h4, h5, h6 {
   color:#267CB9;
@@ -134,7 +131,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:250px;
   float:left;
   position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -153,7 +150,7 @@ ul.contact {
   background: #04ba20;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px;
+  width:250px;
 }
 
 .contact li {
@@ -214,7 +211,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:250px;
   float:left;
   position:static;
   bottom:40px;
