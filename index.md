@@ -11,7 +11,7 @@ layout: default
 <dt>Born</dt>
 <dd>1997</dd>
 <dt>Birthplace</dt>
-<dd>India, Bihar</dd>
+<dd>Bihar, India</dd>
 <dt>Profession</dt>
 <dd>Student (B. Tech in the Department of Computer Science and Engineering)</dd>
 <dt>Skills</dt>
