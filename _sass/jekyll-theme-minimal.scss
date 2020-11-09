@@ -11,7 +11,7 @@ body {
 }
 
 .button {
-    background-color: rgba(255, 14, 116, 0.9);
+    background-color: #b72fff;
     border: none;
     color: white;
     padding: 12px 30px;
@@ -50,14 +50,14 @@ h1 {
 }
 
 h2 {
-    color: #393939;
+    color: #ffffff;
 }
 
 h3,
 h4,
 h5,
 h6 {
-    color: #494949;
+    color: #ffffff;
 }
 
 .links {
@@ -78,25 +78,25 @@ h6 {
 }*/
 
 a {
-    color: #ff7d14;
+    color: #3a67ff;
     text-decoration: none;
 }
 
 a:hover,
 a:focus {
-    color: #ff2525;
+    color: #2d5af0;
     font-weight: bold;
 }
 
 a small {
     font-size: 11px;
-    color: #777;
+    color: #ffffff;
     margin-top: -0.3em;
     display: block;
 }
 
 a:hover small {
-    color: #777;
+    color: #ffffff;
 }
 
 .wrapper {
