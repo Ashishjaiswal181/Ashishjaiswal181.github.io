@@ -11,9 +11,10 @@ body {
 }
 
 .button {
-    background-color: #3c403d#3c403d;
+    background-color: #3c403d;
     border: none;
     color: white;
+    align-self: center;
     padding: 12px 30px;
     font-size: 20px;
     width: 270px;
@@ -60,6 +61,11 @@ h6 {
     color: #ffffff;
 }
 
+h5{
+    color: #C6AD8F;
+}
+h4 {
+color: #F4ABAA}
 .links {
     color:  #f77b17;
     display: block;
