@@ -11,7 +11,7 @@ body {
 }
 
 .button {
-    background-color: rgba(106, 180, 252, 0.9);
+    background-color: rgba(255, 14, 116, 0.9);
     border: none;
     color: white;
     padding: 12px 30px;
@@ -26,7 +26,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #FB9039;
+    color:  #f77b17;
     margin: 0 0 20px;
 }
 
@@ -61,6 +61,7 @@ h6 {
 }
 
 .links {
+    color: #3a67ff;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -77,13 +78,13 @@ h6 {
 }*/
 
 a {
-    color: #267CB9;
+    color: #ff7d14;
     text-decoration: none;
 }
 
 a:hover,
 a:focus {
-    color: #069;
+    color: #ff2525;
     font-weight: bold;
 }
 
@@ -137,12 +138,12 @@ td {
 }
 
 dt {
-    color: #444;
+    color: #ffffff;
     font-weight: 700;
 }
 
 th {
-    color: #444;
+    color: #ffffff;
 }
 
 img {
