@@ -12,12 +12,14 @@ layout: default
 <dd>1997</dd>
 <dt>Birthplace</dt>
 <dd>Bihar, India</dd>
+<dt>Education</dt>
+<dd>Bachelor of Technology (Computer Science), Ramaiah University of Applied Sciences</dd>
 <dt>Profession</dt>
-<dd>Student (B. Tech in the Department of Computer Science and Engineering)</dd>
+<dd>Application Engineer at Iwane Labs., Sapporo, Japan</dd>
 <dt>Skills</dt>
 <dd>Python, C, Java, SQL, Git Bash (Shell), Matlab, Javascript, CSS, HTML</dd>
 <dt>Blog</dt>
-<dd><a href="https://ashishjaiswal181.github.io/VSBlog/">VS_blog</a></dd>
+<dd><a href="https://ashishjaiswal181.github.io/WeBlogg/">We Blogg</a></dd>
 <dt>Publishment</dt>
 <dd>Itch.io Game Jam <a href="https://ashish-kumar.itch.io/space-wars">Space Wars</a></dd>
 </dl>
@@ -26,7 +28,7 @@ layout: default
 
 # About Me
 
-Hello! I am an enthusiast engineer persuing B. Tech in the Department of Computer Science. I am interested in making changes to the world. My ideology is that everyone has their own struggle story so as an engineer I think it is my responsibility to make everybody's struggle less sufferable. Currently I am learning and working on a project based on machine learning that will be represented in the Innovation Challenge held by my university.
+Hey there! I am Ashish, an enthusiast engineer but currently working on my Japanese Language fluency. I am interested in making changes to the world. My ideology is that everyone has their own struggle story so as an engineer I think it is my responsibility to make everybody's struggle less sufferable. Currently, I am learning and working on a project based on AI Agent. 
 
 # Hobbies
 

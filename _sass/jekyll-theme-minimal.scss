@@ -3,15 +3,15 @@
 
 body {
     background-color: rgba(211, 232, 247, 0.81);
-    background-image: url(/assets/img/Background.jpg);
+    background: linear-gradient(#1F3044, #646C79);
     padding: 50px;
     font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #484848;
+    color: #ffffff;
     font-weight: 400;
 }
 
 .button {
-    background-color: DodgerBlue;
+    background-color: rgba(106, 180, 252, 0.9);
     border: none;
     color: white;
     padding: 12px 30px;
@@ -26,7 +26,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #267CB9;
+    color: #FB9039;
     margin: 0 0 20px;
 }
 
