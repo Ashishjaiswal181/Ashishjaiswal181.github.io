@@ -14,7 +14,8 @@ body {
     background-color: #3c403d;
     border: none;
     color: white;
-    align-self: center;
+    align-items: stretch;
+    align-content: center;
     padding: 12px 30px;
     font-size: 20px;
     width: 270px;
@@ -64,8 +65,11 @@ h6 {
 h5{
     color: #C6AD8F;
 }
+
 h4 {
-color: #F4ABAA}
+color: #F4ABAA;
+}
+
 .links {
     color:  #f77b17;
     display: block;
