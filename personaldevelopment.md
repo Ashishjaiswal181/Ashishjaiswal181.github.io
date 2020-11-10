@@ -8,7 +8,7 @@ layout: default
 
 ##### Duke University, COURSERA
 
-The Data Visualization course is offered by Duke University on Coursera. It includes the decplinary steps to approach a data analysis problem and how to come up with the correct aim for the analysis that will meet the S.M.A.R.T. (Specific, Measurable, Achievable, Relevant and Time-based) Goal. Once the aim is clear, the course digs on the data visualization techinques and efficiency of using Tableau for complex and big data. The course is graded on business recommendation made for a certain goal using Data Visualization skills. The certificate for the course can be found here.
+The Data Visualization course is offered by Duke University on Coursera. It includes the decplinary steps to approach a data analysis problem and how to come up with the correct aim for the analysis that will meet the S.M.A.R.T. (Specific, Measurable, Achievable, Relevant and Time-based) Goal. Once the aim is clear, the course digs on the data visualization techinques and efficiency of using Tableau for complex and big data. The course is graded on business recommendation made for a certain goal using Data Visualization skills. The certificate for the course can be found [here](https://www.coursera.org/account/accomplishments/certificate/D73PG8L5LSDV).
 
 ### Deep Learning Specialization
 
