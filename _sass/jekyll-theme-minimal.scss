@@ -210,12 +210,6 @@ ul.contact {
     height: 34px;
 }
 
-.contact a:hover,
-.contact a:focus {
-    font-size: 14px;
-    color: #f77b17;
-    font-weight: bolder;
-}
 
 .contact ul a:active {
     background-color: #f0f0f0;
@@ -230,6 +224,13 @@ ul.contact {
     font-size: 12px;
     display: block;
     color: #ffffff;
+}
+
+.contact a:hover,
+.contact a:focus {
+    font-size: 11px;
+    color: #f77b17;
+    font-weight: bolder;
 }
 
 small {
